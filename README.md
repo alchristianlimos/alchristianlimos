@@ -21,6 +21,7 @@
 ###
 
 <h2 align="left">📜 Certificates</h2>
+<a href= "https://courses.cognitiveclass.ai/certificates/0c1cca9b1fd74964a725b8facc045f76"> SQL and Relational Databases 101 </a>
 
 ###
 
