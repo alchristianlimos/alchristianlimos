@@ -23,6 +23,7 @@
 <h2 align="left">📜 Certificates</h2>
 <a href= "https://courses.cognitiveclass.ai/certificates/0c1cca9b1fd74964a725b8facc045f76"> SQL and Relational Databases 101 </a>
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=F7A5E230552D979CC1533937EB54FC95833B7FEA9631D190BBBFCE3B65DB3682"> Oracle Cloud Infrastracture 2025 Foundations Associate </a>
+
 ###
 
 <h2 align="left">🔗 Social Links</h2>
