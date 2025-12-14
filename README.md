@@ -25,6 +25,8 @@
 
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=F7A5E230552D979CC1533937EB54FC95833B7FEA9631D190BBBFCE3B65DB3682"> Oracle Cloud Infrastracture 2025 Foundations Associate </a>
 
+<a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4AFF799951A52EEC4AA0887F448C140C002928C5FD0B9E6FBAA82F084ED69D2"> Oracle Data Platform 2025 Foundations Associate </a>
+
 ###
 
 <h2 align="left">🔗 Social Links</h2>
