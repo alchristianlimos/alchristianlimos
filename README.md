@@ -14,7 +14,7 @@
 ###
 
 <h2 align="left">💻 I code with</h2>
-<p align="left"> Java </p>
+<p align="left"> JAVA </p>
 <p align="left"> HTML </p>
 <p align="left"> CSS </p>
 <p align="left"> JS </p>
