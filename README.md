@@ -17,6 +17,8 @@
 <p align="left"> Java </p>
 <p align="left"> HTML </p>
 <p align="left"> CSS </p>
+<p align="left"> JS </p>
+<p align="left"> PYTHON </p>
 
 ###
 
@@ -34,3 +36,6 @@
 
 <h2 align="left">🔗 Social Links</h2>
 <a href= "https://www.facebook.com/naisomil.somil"> Facebook </a>
+
+<a href= "https://www.instagram.com/ian_limos/"> Instagram </a>
+
