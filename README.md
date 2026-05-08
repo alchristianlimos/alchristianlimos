@@ -27,6 +27,7 @@ Currently 21 years old and I enjoy exploring things. I believe that the best way
 * ☁️ [OCI 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F7A5E230552D979CC1533937EB54FC95833B7FEA9631D190BBBFCE3B65DB3682)
 * 📊 [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4AFF799951A52EEC4AA0887F448C140C002928C5FD0B9E6FBAA82F084ED69D2)
 * 🤖 [OCI 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C7C3665BE736444103A12D1A1F2F5B270110F4A09895A98E29481FF912973CD8)
+* 🗄️ [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/4f28b3f5901a42ee9fcae2834da6d508)
 
 ---
 
