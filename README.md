@@ -35,3 +35,4 @@ Currently 21 years old and I enjoy exploring things. I believe that the best way
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ian_limos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/al-christian-limos-b2aa5a399)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alchristianlimos@gmail.com)
+📧 alchristianlimos@gmail.com
